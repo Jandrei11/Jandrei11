@@ -83,12 +83,4 @@ I'd love to collaborate, share ideas, or just chat about tech! Feel free to reac
 
 ---
 
-## ⭐ Support
-
-If you find my future projects helpful or interesting, drop a star! Your support keeps me motivated and helps others discover what I'm building.
-
----
-
-**Fun Fact**: I'm on a mission to turn my vibe-coded ideas into production-ready software! 🚀
-
 **Last Updated**: May 29, 2026
