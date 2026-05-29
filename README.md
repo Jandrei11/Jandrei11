@@ -14,8 +14,6 @@ With a growing interest in software development, I'm on a mission to understand 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** - Building my foundations
 
 ### Specialties
--  **AI Prompting** - Learning to work effectively with AI tools while vibe coding most stuffs
--  **Debugging** - Developing problem-solving skills
 -  **Problem Solving** - Breaking down complex issues into manageable parts
 
 ### Technologies I'm Exploring
