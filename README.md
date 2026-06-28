@@ -27,9 +27,9 @@ With a growing interest in software development, I'm on a mission to understand 
 
 I'm actively building my skills in:
 - 📚 **Python Programming** - From basics to intermediate
-- ☁️ **Cloud Technologies** - Understanding AWS, Azure, and deployment
-- 🔧 **DevOps Fundamentals** - Containers, automation, and infrastructure
-- 🌐 **Web Development** - Next on my learning roadmap
+- ☁️ **Cloud Technologies** - Understanding AWS, Azure, and deployment (currently have no idea)
+- 🔧 **DevOps Fundamentals** - Containers, automation, and infrastructure (currently have no idea)
+- 🌐 **Web Development** - Next on my learning roadmap 
 
 ---
 
