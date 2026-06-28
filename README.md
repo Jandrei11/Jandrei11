@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an **incoming freshman** at **UP Los Banos** pursuing a **BS in Computer Science**. I'm passionate right now in building my foundations in programming as someone who has little to no experience while looking to explore cloud technologies and DevOps once I get the hang of this. I believe in learning by doing, and I'm excited to turn ideas into code and solutions.
+I'm an **incoming freshman** at the **University of the Philippines Los Banos** pursuing a **BS in Computer Science** degree. I'm passionate right now in building my foundations in programming as someone who has little to no experience while looking to explore cloud technologies and DevOps once I get the hang of this. I believe in learning by doing, and I'm excited to turn ideas into code and solutions.
 
 With a growing interest in software development, I'm on a mission to understand how technology can solve real-world problems. Still early in my coding journey, but eager to learn, create, and improve every single day.
 
