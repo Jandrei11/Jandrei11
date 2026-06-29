@@ -1,4 +1,4 @@
-# Hey, I'm Francis!
+# Hi, I'm Francis!
 
 ## About Me
 
