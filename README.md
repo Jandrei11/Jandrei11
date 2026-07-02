@@ -1,1 +1,2 @@
-# WALA MUNANG LAMAN ANO ILALAGAY KO DITO WALA WALA WALA
+# Periodically doing some python problem sets and creating projects from scratch
+
